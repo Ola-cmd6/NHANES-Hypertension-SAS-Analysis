@@ -20,3 +20,14 @@ After adjusting for age, gender, race, and income, the following factors were fo
 - `nhanes_analysis.sas`: The complete SAS code for cleaning, visualization, and modeling.
 - `NHANES_Regression_Results.html`: The full statistical output.
 - *(Add a section here to embed the plots you saved, e.g., `![Age vs BP](plot1_age_gender.png)`)*
+
+## 📈 Visualizations
+
+**Hypertension Prevalence by Age and Gender**
+![Age and Gender Plot](plot1_age_gender.png)
+
+**Systolic Blood Pressure by Age**
+![BP by Age Plot](plot2_bp_age.png)
+
+**Hypertension by Socioeconomic Status**
+![Income Plot](plot3_income.png)
